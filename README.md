@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=blackstocks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='[https://randommeme-five.vercel.app/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcheezburger.com%2F6349573%2F20-programming-memes-thatll-trigger-any-developer&psig=AOvVaw27bjO6bw-x1ldBz6Qx7beP&ust=1714974382266000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDexNjn9YUDFQAAAAAdAAAAABAZ)' style="height: 400px;"/>
+<img src='https://i.chzbgr.com/full/9195087360/h439A7869/meme-text-root-cause-what-are-you-doing-gotcha-debugging-real-problem-sprint-monkeuusercom' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blackstocks&icon=0&color=0)](https://visitcount.itsvg.in)
