@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Soni</h1>
-<h3 align="center">A passionate full stack developer from India. Whether it’s 0→1 MVPs or scaling infra to handle chaos — I get it done.</h3>
+<h3 align="center">A passionate full stack Agentic AI developer from India. Whether it’s 0→1 MVPs or scaling infra to handle chaos — I get it done.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackstocks&label=Profile%20views&color=0e75b6&style=flat" alt="blackstocks" /> </p>
 
