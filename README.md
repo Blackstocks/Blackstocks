@@ -78,16 +78,27 @@ const blackstocks = {
 
 ---
 
-## GitHub Stats (yes, including the private repo crimes)
+## 1,693 Contributions. 81 Repos. Zero Regrets.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackstocks&theme=react&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<table>
+<tr>
+<td align="center"><b>1,693</b><br/>contributions this year</td>
+<td align="center"><b>25 days</b><br/>longest streak</td>
+<td align="center"><b>81</b><br/>public repos</td>
+<td align="center"><b>∞</b><br/>abandoned side projects</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstocks&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=blackstocks&theme=react&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstocks&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
 
 <br/>
 
@@ -101,14 +112,21 @@ const blackstocks = {
 
 ## Current Status
 
-```
-Building something unhinged         [████████████████████░░░]  89%
-Mass-producing side projects                  [████████████████████████] 100%
-Breaking something in production    [████████████████████████] 100%
-Starting ANOTHER new project        [████████████████████████] 100%
-Finishing an old project            [██░░░░░░░░░░░░░░░░░░░░░]   8%
-Reading the documentation           [░░░░░░░░░░░░░░░░░░░░░░░]   0%
-Sleeping                            [░░░░░░░░░░░░░░░░░░░░░░░]  lol
+```diff
++ 1,693 contributions this year mass-producing side projects and mass-producing startups
++ 25-day commit streak (slept through day 26, still mad about it)
++ 33 commits in a single day (March 27 was a different breed)
+! mass-producing repos faster than mass-producing excuses
+- mass-producing mass-producing
+
+  Building something unhinged         [████████████████████░░░]  89%
+  Shipping to production at 3am       [████████████████████████] 100%
+  Starting ANOTHER new project        [████████████████████████] 100%
+  Abandoning the last one             [████████████████████████] 100%
+  Finishing an old project            [██░░░░░░░░░░░░░░░░░░░░░]   8%
+  Reading the documentation           [░░░░░░░░░░░░░░░░░░░░░░░]   0%
+  Sleeping                            [░░░░░░░░░░░░░░░░░░░░░░░]  lol
+  Touching grass                      [░░░░░░░░░░░░░░░░░░░░░░░]  404
 ```
 
 ---
