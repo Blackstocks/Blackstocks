@@ -1,25 +1,123 @@
-# 💫 About Me:
-Hey, Ankit here!<br>Building an orderbook exchange.<br>Previously created an AI ecosystem for MSMEs in India.<br>I love turning ideas into fast, scalable products.<br>Constantly experimenting with modern AI tools and stress-testing their limits.
+<div align="center">
 
+```
+                    ██████╗ ██╗      █████╗  ██████╗██╗  ██╗███████╗████████╗ ██████╗  ██████╗██╗  ██╗███████╗
+                    ██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║ ██╔╝██╔════╝
+                    ██████╔╝██║     ███████║██║     █████╔╝ ███████╗   ██║   ██║   ██║██║     █████╔╝ ███████╗
+                    ██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ╚════██║   ██║   ██║   ██║██║     ██╔═██╗ ╚════██║
+                    ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗███████║   ██║   ╚██████╔╝╚██████╗██║  ██╗███████║
+                    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.n.k.i.t__s.o.n.i) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blackstocks) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/blackstocks2107) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitkumarsoni656.iitkgp@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%24+sudo+rm+-rf+%2Freality;I+don't+write+bugs.+I+write+features+nobody+asked+for." alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=blackstocks&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=blackstocks&style=for-the-badge&color=brightgreen&label=PROFILE+STALKERS" alt="Profile views"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Blackstocks&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Blackstocks&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blackstocks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```diff
++ STATUS: EXTREMELY ONLINE
+- SLEEP SCHEDULE: DESTROYED
+! CAFFEINE LEVEL: CRITICAL
+# COMMITS TODAY: YES
+```
+
+</div>
+
+## `> whoami`
+
+```js
+const blackstocks = {
+    pronouns: "he" | "they" | "that mf",
+    location: "between prod and disaster",
+    currentStatus: "it works on my machine ¯\\_(ツ)_/¯",
+    askMeAbout: ["code", "why it's broken", "why it works (nobody knows)"],
+    reachMe: "open an issue and pray",
+    funFact: "I mass-produce side projects that will never see the light of day"
+};
+
+while (alive) {
+    eat();
+    sleep(0);
+    code();
+    mass_produce_side_projects();
+    mass_produce_side_projects();  // not a bug, it's accurate
+}
+```
+
+## `> cat /etc/arsenal`
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,tailwind,firebase,git,github,vscode,figma,linux,docker,postgres,mongodb,vercel,aws&perline=9" />
+
+## `> neofetch`
+
+```
+                   blackstocks@github
+   ████████████    ────────────────────
+  ██            ██  OS:      caffeineOS x86_64
+ ██   ▄▄▄  ▄▄▄  ██ Host:    localhost (most of the time)
+ ██   █  █ █  █  ██ Kernel:  panic v4.20.69
+ ██              ██ Uptime:  too long
+ ██    ▀▀▀▀▀    ██ Packages: 9999 (node_modules)
+  ██  ▄▄▄▄▄▄▄  ██  Shell:   zsh (with 47 aliases I forgot about)
+   ████████████    Terminal: the one that mass_produces_side_projects
+                    CPU:     100% (thanks Chrome)
+                    Memory:  yes, all of it
+                    Disk:    90% node_modules, 10% everything else
+```
+
+## `> git log --oneline --graph`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=blackstocks&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=blackstocks&theme=default&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=blackstocks&theme=dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackstocks&theme=green&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="98%"/>
+
+## `> cat ~/.brain/current_projects.txt`
+
+```
+🔥 Building something unhinged      [████████████████████░░░]  89%
+🧪 Breaking something in prod       [████████████████████████] 100%
+🗑️ Abandoning a side project        [████████████████████████] 100%
+📦 Starting a NEW side project       [████████████████████████] 100%
+📖 Reading the docs                  [░░░░░░░░░░░░░░░░░░░░░░░]   0%
+```
+
+## `> fortune | cowsay`
+
+```
+ _______________________________________________
+/ "It compiled. Ship it."                       \
+|                                               |
+\ — me, mass_producing_side_projects at 3am probably   /
+ -----------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+<div align="center">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,25&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**if you read this far, you're legally obligated to star a repo**
+
+</div>
