@@ -47,12 +47,6 @@ I love turning half-baked 3am ideas into full-stack products before sunrise. 81 
 </tr>
 </table>
 
-> third-party streak widgets can't count private contributions properly, so here are the real numbers straight from GitHub's API
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstocks&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br/>
 
