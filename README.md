@@ -37,14 +37,26 @@ I love turning half-baked 3am ideas into full-stack products before sunrise. 81 
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center"><h2>1,695</h2><sub>contributions this year</sub></td>
+<td align="center"><h2>25 days</h2><sub>longest streak</sub></td>
+<td align="center"><h2>49</h2><sub>most commits in a day</sub></td>
+<td align="center"><h2>81</h2><sub>public repos</sub></td>
+<td align="center"><h2>~10/day</h2><sub>avg on active days</sub></td>
+</tr>
+</table>
+
+> third-party streak widgets can't count private contributions properly, so here are the real numbers straight from GitHub's API
+
+<br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=blackstocks&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=blackstocks&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6600&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstocks&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackstocks&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="98%"/>
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackstocks&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
